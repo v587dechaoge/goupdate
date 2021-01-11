@@ -1,0 +1,4 @@
+config.hjson
+logs/
+codec/
+data/
